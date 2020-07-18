@@ -12,24 +12,24 @@ different types of zombies, powerups, and weapons. Also, there
 is an friendly AI to help you in the fight.
 
 Libraries used:
--Pygame
--Pyscroll
--Pytmx
+- Pygame
+- Pyscroll
+- Pytmx
 (Pyscroll and Pytmx are for the map)
 
 There are 7 python files:
--game.py (game modes, runnable file)
--gameObject.py (game object superclass, used for all game objects)
--imports.py (all import statements)
--objects.py (barrel and bullet classes)
--player.py (player and friendly ai classes)
--zombies.py (zombie classes)
--powerups.py (powerup classes)
+- game.py (game modes, runnable file)
+- gameObject.py (game object superclass, used for all game objects)
+- imports.py (all import statements)
+- objects.py (barrel and bullet classes)
+- player.py (player and friendly ai classes)
+- zombies.py (zombie classes)
+- powerups.py (powerup classes)
 
 Pyscroll, images, design document, and sample save state included. 
 
 To play, simply run "game.py"!
 
 Shorthand commands:
--"Enter": Add 1000 points (in game)
--Right click to spawn a health up
+- "Enter": Add 1000 points (in game)
+- Right click to spawn a health up
