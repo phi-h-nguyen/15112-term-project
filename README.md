@@ -1,6 +1,5 @@
-Surviv.io 0.5: Zombies
-Phi Henry Nguyen
-15-112 Fall 2019 Term Project
+# Surviv.io 0.5: Zombies
+## 15-112 Fall 2019 Term Project
 
 Hello!
 
@@ -26,7 +25,7 @@ There are 7 python files:
 - zombies.py (zombie classes)
 - powerups.py (powerup classes)
 
-Pyscroll, images, design document, and sample save state included. 
+Pyscroll, images, design document, and sample save state included. You may need to download pygame, pyscroll, pytmx.
 
 To play, simply run "game.py"!
 
