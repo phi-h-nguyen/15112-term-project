@@ -32,3 +32,5 @@ To play, simply run "game.py"!
 Shorthand commands:
 - "Enter": Add 1000 points (in game)
 - Right click to spawn a health up
+
+Demo Video: https://youtu.be/eL9KF5at2g8
