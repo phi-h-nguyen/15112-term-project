@@ -1,0 +1,15 @@
+rifle 270
+shotgun 310
+pistol 190
+submachine 290
+sniper 230
+ai-gun 1
+normal 21
+bomb 26
+mini 268
+tank 9
+51
+44798
+1
+1517
+100
